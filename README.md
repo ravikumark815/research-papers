@@ -1,3 +1,3 @@
 # research-papers
 
-Contains research I published in international journals
+Contains research papers I published in international journals
